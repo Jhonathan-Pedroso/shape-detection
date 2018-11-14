@@ -1,0 +1,1261 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"batch_size_lst"
+			],
+			[
+				"dr",
+				"dropout_mode_lst"
+			],
+			[
+				"dap_",
+				"dap_group"
+			],
+			[
+				"dap_grp",
+				"dap_group1"
+			],
+			[
+				"dap",
+				"dap_group1"
+			],
+			[
+				"time",
+				"time_points"
+			],
+			[
+				"upper",
+				"upper_set"
+			],
+			[
+				"acc_",
+				"acc_matrix"
+			],
+			[
+				"dir_",
+				"dir_proj"
+			],
+			[
+				"W_bin",
+				"W_bin_expanded"
+			],
+			[
+				"df_melt",
+				"df_melt_markers"
+			],
+			[
+				"batch",
+				"batch_mode_lst"
+			],
+			[
+				"drp",
+				"drop_duplicates"
+			],
+			[
+				"drop",
+				"drop_duplicates"
+			],
+			[
+				"loci",
+				"loci_info"
+			],
+			[
+				"top",
+				"top_lines_obs"
+			],
+			[
+				"y_gen",
+				"y_gen_post"
+			],
+			[
+				"prefix",
+				"prefix_proj"
+			],
+			[
+				"y_ovs",
+				"y_obs_cv2"
+			],
+			[
+				"PREFIX",
+				"PREFIX_code"
+			],
+			[
+				"DBN",
+				"DBN-0"
+			],
+			[
+				"index",
+				"index_col"
+			],
+			[
+				"simply",
+				"simplify = \tArguments"
+			],
+			[
+				"simpl",
+				"simplify = \tArguments"
+			],
+			[
+				"biomas",
+				"biomass_type"
+			],
+			[
+				"r2",
+				"r2_dict"
+			],
+			[
+				"acc",
+				"acc_dict"
+			],
+			[
+				"alpha",
+				"alpha_tmp"
+			],
+			[
+				"anal",
+				"analyse_types"
+			],
+			[
+				"ana",
+				"analyse_types"
+			],
+			[
+				"gg",
+				"ggtitle\t{ggplot2}"
+			],
+			[
+				"y_",
+				"y_height_trn"
+			],
+			[
+				"y_h",
+				"y_height_trn_bt"
+			],
+			[
+				"X_",
+				"X_height"
+			],
+			[
+				"name",
+				"name1"
+			],
+			[
+				"id",
+				"id_gbs"
+			],
+			[
+				"select",
+				"select_dtypes"
+			],
+			[
+				"set",
+				"setdiff1d"
+			],
+			[
+				"A_inv",
+				"A_inv_final"
+			],
+			[
+				"n_",
+				"n_h_layer"
+			],
+			[
+				"keep",
+				"keep_prob_lst"
+			],
+			[
+				"labm",
+				"lamb_lst"
+			],
+			[
+				"star",
+				"starter_learning_rate_lst"
+			],
+			[
+				"h_unts",
+				"h_units_lst"
+			],
+			[
+				"con",
+				"constant"
+			],
+			[
+				"Y_pred",
+				"Y_pred_trn"
+			],
+			[
+				"h_",
+				"h_units"
+			],
+			[
+				"h_unis",
+				"h_unitsTf"
+			],
+			[
+				"shape",
+				"shape_invariants"
+			],
+			[
+				"units",
+				"h_unitsTf"
+			],
+			[
+				"while",
+				"while_loop"
+			],
+			[
+				"X_trn",
+				"X_trnTf"
+			],
+			[
+				"feat",
+				"featSkewedIndex"
+			],
+			[
+				"as.data",
+				"as.data.frame.matrix\t{base}"
+			],
+			[
+				"id_",
+				"id_dummy_trn"
+			],
+			[
+				"Day",
+				"Dayhoff1"
+			],
+			[
+				"time_",
+				"time_covariate"
+			],
+			[
+				"y_train",
+				"y_train_dim"
+			],
+			[
+				"in",
+				"inv"
+			],
+			[
+				"out_blr",
+				"out_blr_nuts"
+			],
+			[
+				"colo",
+				"colors\t{grDevices}"
+			],
+			[
+				"output",
+				"output_p_check"
+			],
+			[
+				"output_p",
+				"output_p_check_temp"
+			],
+			[
+				"exp_like",
+				"exp_like_mean_post"
+			],
+			[
+				"alpha_",
+				"alpha_mean_post_table"
+			],
+			[
+				"african",
+				"african_region"
+			],
+			[
+				"p_",
+				"p_beta"
+			],
+			[
+				"alpha_hdi",
+				"alpha_hdi_post"
+			],
+			[
+				"specific",
+				"specific_region"
+			],
+			[
+				"coord_f",
+				"coord_flip\t{ggplot2}"
+			],
+			[
+				"delta",
+				"default.stringsAsFactors\t{base}"
+			],
+			[
+				"study",
+				"study_period"
+			],
+			[
+				"hk",
+				"hk_model_resul"
+			],
+			[
+				"log_like",
+				"log_like_h1"
+			],
+			[
+				"log_l",
+				"log_like_h0"
+			],
+			[
+				"r_MLE",
+				"r_mle_RC2_hmm"
+			],
+			[
+				"r_mle",
+				"r_mle_RC2_hmm"
+			],
+			[
+				"like_vals",
+				"like_vals_h_a"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/jhonathan/Documents/shape-detection/shape_detection_learning.py",
+			"settings":
+			{
+				"buffer_size": 4153,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/jhonathan/Documents/diversity-proj/codes/diversity2_results.py",
+			"settings":
+			{
+				"buffer_size": 13172,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 132.0,
+		"last_filter": "push",
+		"selected_items":
+		[
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"git pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"ad",
+				"Git: Add All"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"repl",
+				"SublimeREPL: Python"
+			],
+			[
+				"git pul",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"ush",
+				"SublimeREPL: Shell"
+			],
+			[
+				"git pu",
+				"Git: Pull Current Branch"
+			],
+			[
+				"aadd",
+				"E-Mail: Add to Addressbook"
+			],
+			[
+				"ADD",
+				"Git: Add All"
+			],
+			[
+				"pu",
+				"Git: Push Current Branch"
+			],
+			[
+				"pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"pus",
+				"Git: Push Current Branch"
+			],
+			[
+				"ocm",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"COM",
+				"Git: Commit"
+			],
+			[
+				"puh",
+				"Git: Push Current Branch"
+			],
+			[
+				"Push",
+				"Git: Push Current Branch"
+			],
+			[
+				"PUSH",
+				"Git: Push Current Branch"
+			],
+			[
+				"import",
+				"Project Manager: Import *.sublime-project File"
+			],
+			[
+				"om",
+				"Origami: Move File to Pane Above"
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"addd",
+				"Project: Add Folder"
+			],
+			[
+				"ccom",
+				"CSV: Compact columns"
+			],
+			[
+				"cocm",
+				"CSV: Compact columns"
+			],
+			[
+				"co",
+				"Git: Commit"
+			],
+			[
+				"import pr",
+				"Project Manager: Import *.sublime-project File"
+			],
+			[
+				"replr",
+				"SublimeREPL: R"
+			],
+			[
+				"repl py",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"repl R",
+				"SublimeREPL: R"
+			],
+			[
+				"repl r",
+				"SublimeREPL: R"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"cpm",
+				"Preferences: Project Manager: Settings"
+			],
+			[
+				"controlinstall",
+				"Package Control: Install Package"
+			],
+			[
+				"repl she",
+				"SublimeREPL: Shell"
+			],
+			[
+				"git branch",
+				"Git: Change Branch"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"import proje",
+				"Project Manager: Import *.sublime-project File"
+			],
+			[
+				"repl shel",
+				"SublimeREPL: Shell"
+			],
+			[
+				"import proj",
+				"Project Manager: Import *.sublime-project File"
+			],
+			[
+				"project",
+				"Project Manager: Open Project"
+			],
+			[
+				"comi",
+				"Git: Commit"
+			],
+			[
+				"REPL R",
+				"SublimeREPL: R"
+			],
+			[
+				"open folder",
+				"SublimeREPL: SBT for opened folder"
+			],
+			[
+				"project import",
+				"Project Manager: Import *.sublime-project File"
+			],
+			[
+				"project new",
+				"Project Manager: Add New Project"
+			],
+			[
+				"pul",
+				"Git: Pull"
+			],
+			[
+				"adad",
+				"E-Mail: Add to Addressbook"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"project ad",
+				"Project: Add Folder"
+			],
+			[
+				"project add",
+				"Project: Add Folder"
+			],
+			[
+				"project ",
+				"Project Manager: Import *.sublime-project File"
+			],
+			[
+				"gra",
+				"Git: Graph All"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"repl ",
+				"SublimeREPL: R"
+			],
+			[
+				"REPL",
+				"SublimeREPL: R"
+			],
+			[
+				"git diff",
+				"Git: Diff Tool All"
+			],
+			[
+				"google",
+				"Google Spell Check"
+			],
+			[
+				"graph",
+				"Set Syntax: Git Graph"
+			],
+			[
+				"rePL R",
+				"SublimeREPL: R"
+			],
+			[
+				"sublimeRepl",
+				"SublimeREPL: R"
+			],
+			[
+				"package control",
+				"Package Control: Remove Package"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"GIT ADD",
+				"Git: Add All"
+			],
+			[
+				"pan",
+				"Pandoc"
+			],
+			[
+				"pandoc",
+				"Pandoc"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Install Package Control"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 189.0,
+		"history":
+		[
+			"sublime.log_commands(True)",
+			"knitr-Markdown.sublime-build"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/jhonathan/Documents/diversity-proj/codes/external_functions.py",
+		"/home/jhonathan/Documents/diversity-proj/codes/temp.py",
+		"/home/jhonathan/Documents/diversity-proj/codes/diversity2_results.py",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/bash_codes.sh",
+		"/home/jhonathan/Documents/diversity-proj/codes/junk_codes.sh",
+		"/home/jhonathan/Documents/diversity-proj/codes/bash_codes.sh",
+		"/home/jhonathan/Documents/diversity-proj/codes/diversity2_feature_importance.py",
+		"/home/jhonathan/Documents/diversity-proj/codes/diversity2.py",
+		"/home/jhonathan/Documents/shape-detection/single-rectangle.ipynb",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/junk_code.py",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/mtrait_bayesian_networks.py",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/mtrait_bayesian_networks_results.py",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/dynamic_bayesian_network_0_2.stan",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/dynamic_bayesian_network_0_3.stan",
+		"/home/jhonathan/Documents/twostage-proj/codes/stan_code_diag.stan",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/dynamic_bayesian_network_0_4.stan",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/dynamic_bayesian_network_0_5.stan",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/dynamic_bayesian_network_0_6.stan",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/pleiotropic_bayesian_network.stan",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/mtrait_gdrive.sh",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/dynamic_bayesian_network_0_1.stan",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/external_functions.py",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/growth_bayesian_network.stan",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/bayesian_network.stan",
+		"/home/jhonathan/Documents/sorghum-multi-trait/README.md",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/mtrait_cross_validation_data_split.py",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/mtrait_data_processing.py",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/mtrait_mixed_models_results.R",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/mtrait_mixed_models.R",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/tmp.R",
+		"/home/jhonathan/Documents/phd1/gdrive /gdrive.sh",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/mtrait_cross_validation_output_directories.sh",
+		"/home/jhonathan/Documents/sorghum-multi-trait/junk/codes/transcriptomic_data_augmentation_via_bayesian.py",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/mtrait_first_step_analysis.R",
+		"/home/jhonathan/Documents/phd1/Tutorials/r_codes/permutation_example_linear_regression.R",
+		"/home/jhonathan/Documents/biometria-esalq/reports_biometria/class9_report/final/test.R",
+		"/home/jhonathan/Documents/biometria-esalq/reports_biometria/class9_report/final/class9_report.Rmd",
+		"/home/jhonathan/Documents/biometria-esalq/reports_biometria/class8_report/final/class8_report.Rmd",
+		"/home/jhonathan/Documents/diversity-proj/codes/diversity_results.py",
+		"/home/jhonathan/Documents/sorghum-multi-trait/junk/codes/transcriptomic_data_augmentation.py",
+		"/home/jhonathan/Documents/deep_phd-proj/codes/deep-code.py",
+		"/home/jhonathan/Documents/syng-proj/codes/syng-proj.R",
+		"/home/jhonathan/Downloads/malachycampbell-Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-HTP-0e50094/Rmarkdownfiles/7.ScenarioD.Rmd",
+		"/home/jhonathan/Downloads/malachycampbell-Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-HTP-0e50094/Rmarkdownfiles/6.ScenariosBandC.Rmd",
+		"/home/jhonathan/Downloads/malachycampbell-Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-HTP-0e50094/Rmarkdownfiles/5.ScenarioA.Rmd",
+		"/home/jhonathan/Downloads/malachycampbell-Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-HTP-0e50094/Rmarkdownfiles/3.RRmodelselection.Rmd",
+		"/home/jhonathan/Downloads/malachycampbell-Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-HTP-0e50094/Rmarkdownfiles/2.Genoprep.Rmd",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/growth_bayesian_network_cv2.stan",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/growth_bayesian_network_0_1.stan",
+		"/home/jhonathan/Documents/transf/time_preliminar/us_structure/Con/code-us_tree_24-01-2016.stan",
+		"/home/jhonathan/Documents/struc-proj/asreml_vs_stan/asreml_vs_stan.R",
+		"/home/jhonathan/Documents/phd1/Tutorials/asreml_introduction.R",
+		"/home/jhonathan/Documents/sorghum-multi-trait/asreml/test_rrbup/rrblup-asreml-R.R",
+		"/home/jhonathan/Documents/syng-proj/templates/latex/Syngenta-Crop-Challenge-template.tex",
+		"/home/jhonathan/Documents/bepe-proj/codes/bepe-proj_main_code.R",
+		"/home/jhonathan/Documents/phd1/Project/bepe/bepe_project_with_resume/template/Template_Projeto.sty",
+		"/home/jhonathan/Documents/sorghum-multi-trait/asreml/test_rrbup/rrblup-asreml-R-kaio-example.R",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/mtrait_results.py",
+		"/home/jhonathan/Documents/sorghum-multi-trait/junk/codes/mtrait_cross_validation_output_directories_with_cv3.sh",
+		"/home/jhonathan/Documents/sorghum-multi-trait/junk/codes/bash_codes_with_cv3.sh",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/mtrait_mixed_models_asreml.R",
+		"/home/jhonathan/Documents/MCM/codes/pareto_test.R",
+		"/home/jhonathan/Documents/MCM/advi_two_stage_unbalanced.sh",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/mtrait_gwas.R",
+		"/home/jhonathan/Documents/con-proj/Conifera/Codes/test_asreml_multitrait_spatial.R",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/tmp.py",
+		"/home/jhonathan/Documents/twostage-proj/codes/Codes_Two_Stage.R",
+		"/home/jhonathan/Documents/struc-proj/Notes/global_inbreds_experimental_structure.R",
+		"/home/jhonathan/Documents/struc-proj/asreml_vs_stan/data-asreml_vs_stan.R",
+		"/home/jhonathan/Documents/con-proj/Conifera/Codes/Rubber_Tree_Field_Trial_Example_ASReml/Rubber_Tree_Field_Trail_Example_ASReml.Rmd",
+		"/home/jhonathan/Documents/bioinformatica/Bioinformatica_aplicada/trabalho_aula9/16-11-2016_code_aula9.R",
+		"/home/jhonathan/Documents/sorghum-multi-trait/asreml/test_rrbup/test_asreml.R",
+		"/home/jhonathan/Documents/advi_struc-proj/Rscripts/var-cov_structures.R",
+		"/home/jhonathan/Documents/seringueira-project/Conifera/Codes/time_tree_analysis.R",
+		"/home/jhonathan/Documents/seringueira-project/Cateto/colaboracao_seringueira/run.R",
+		"/home/jhonathan/Downloads/rrblup-asreml-R.R",
+		"/home/jhonathan/Documents/africa-proj/codes/exploratory_data_analysis/exploratory_data_analysis_cervix.Rmd",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/mtrait_draw_bayesian_networks.py",
+		"/home/jhonathan/Videos/terra-mepp_meeting_07-23-2018/Intership_Report.tex",
+		"/home/jhonathan/Documents/diversity-proj/codes/diversity.py",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/my_code.py",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/mtrait_merge_race_information.py",
+		"/home/jhonathan/Documents/sorghum-multi-trait/junk/codes/tmp.py",
+		"/home/jhonathan/Documents/sorghum-multi-trait/junk/codes/mtrait_cv_bayesian_results.py",
+		"/home/jhonathan/Documents/sorghum-multi-trait/junk/codes/mtrait_cv_dnn_results.py",
+		"/home/jhonathan/Documents/twostage-proj/codes/two_stage.R",
+		"/home/jhonathan/Documents/sorghum-multi-trait/junk/codes/useful_bash_code.sh",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/mtrait_first_step_analysis_plots.py",
+		"/home/jhonathan/Documents/sorghum-multi-trait/junk/codes/mtrait_cv_bayesian_models.py",
+		"/home/jhonathan/Documents/deep_phd-proj/codes/deep-code_my-fe.py",
+		"/home/jhonathan/Documents/sorghum-multi-trait/junk/codes/mtrait_cv_dnn_models.py",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/external_functions.pyc",
+		"/home/jhonathan/Documents/phd1/paper_assessings/leticia_polyploids_paper_2018/second_round/Model_Asreml.R",
+		"/home/jhonathan/Documents/africa-proj/codes/exploratory_data_analysis/bladder_male/africa_bladder_cancer_male.R",
+		"/home/jhonathan/Documents/africa-proj/codes/functions_lung/functions_lung.R",
+		"/home/jhonathan/Documents/syng-proj/codes/syng-proj_clean_code.R",
+		"/home/jhonathan/Documents/sorghum-multi-trait/junk/codes/mtrait_cv_data.py",
+		"/home/jhonathan/Documents/sorghum-multi-trait/junk/codes/mtrait_cross_validation_data.py",
+		"/home/jhonathan/Documents/phd1/Tutorials/apply_different_screen_resolution_on_ubuntu.sh",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/mtrait_bayesian_analysis_output_directories.sh",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/pleiotropic_multi_trait.stan",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/pleiotropic_multi_trait_1.stan",
+		"/home/jhonathan/Documents/sorghum-multi-trait/junk/codes/mtrait_cv_rrblup_model.R",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/mtrait_cross_validation_data.py",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/gbs_from_rdata_to_csv.R",
+		"/home/jhonathan/Documents/deep_phd-proj/codes/fire_process.sh",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/bayesian_network_without_mu.stan",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/pleiotropic_multi_trait_0.stan",
+		"/home/jhonathan/Documents/sorghum-multi-trait/notes/papers_to_read.txt",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/mtrait_code.py",
+		"/home/jhonathan/Documents/sorghum-proj/codes/sorghum-proj_main_code.py",
+		"/home/jhonathan/Documents/syng-proj/codes/bn_final_model.stan",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/useful_bash_code.sh",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/mtrait_cv_data.py",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/mtrait_cv_rrblup_model.R",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/mtrait_cv_dnn_results.py",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/mtrait_correlation_traits.py",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/plots_raw_data.R",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/mtrait_cv_bayesian_results.py",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/mtrait_cv_bayesian_models.py",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/mtrait_cv_dnn_models.py",
+		"/home/jhonathan/Documents/sorghum-multi-trait/codes/mtrait_iter_chain_number_tst.py",
+		"/home/jhonathan/Documents/bn-proj/BN-A/main_code/figures_test_code.R",
+		"/home/jhonathan/Documents/bn-proj/Notes/preliminar_result.R",
+		"/home/jhonathan/Documents/bn-proj/Functions/indexation_test_unbalance_across_time.R",
+		"/home/jhonathan/Documents/bn-proj/Functions/testing_HW_test.R",
+		"/home/jhonathan/Documents/bn-proj/Functions/set_functions.R",
+		"/home/jhonathan/Documents/phd1/Project/bepe/bepe_project_with_resume/Projeto.tex"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Spi",
+			"NEWpi",
+			"Spi",
+			"features_remove_lst.txt",
+			"features_to_remove.txt",
+			"mtilm_models_cv2_list.txt",
+			"MTiLM",
+			"Tr1",
+			"\"",
+			"MTi",
+			"Mti",
+			"mti",
+			"MTi",
+			"height",
+			"cv2",
+			"height",
+			"cv1",
+			"MTiLM",
+			"/workdir/jp2476/repo/resul_mtrait-proj/outputs/cross_validation/MTiLM/cv2-30~105/height",
+			"EMM",
+			"G",
+			"pgm",
+			"lst[15]",
+			"lst[5]",
+			"lst[6]",
+			"lst[27]",
+			"np.random.seed(seed)",
+			"[27]",
+			"lst[27]",
+			"_lst)",
+			"print(",
+			"cross_validation",
+			"dddddddddddddddddddd",
+			"7",
+			"90",
+			"75",
+			"60",
+			"45",
+			"30",
+			"rm",
+			"mkdir",
+			"'])\n",
+			" + model.lower() + \"/\" + struc + \"/;\"\n",
+			"_tst",
+			"_dev",
+			"_trn",
+			"y_trn",
+			"[alt]",
+			"density",
+			"'",
+			",",
+			"tmp_0",
+			"tmp",
+			"trained!on:",
+			"plt.hist(y_pred_cv2",
+			"hist(y_pred_cv2",
+			"plt.hist(y_pred_cv2",
+			"plt.hist(y_pred_cv1",
+			"plt.hist(y_pred_cv1['dbn_cv1",
+			"bplot(4, ncols",
+			"subplot(nrows",
+			"nrows=",
+			"beta",
+			"_5",
+			"_4",
+			"_3",
+			"_2",
+			"_1",
+			"_0",
+			"beta",
+			"cv2_type",
+			"y_pred",
+			"plt.hist(y_pred['dbn",
+			"plt.hist(y_pred['d",
+			"only5",
+			"2-",
+			"-",
+			"rm -rf",
+			"rm",
+			"mkdir",
+			"trn",
+			"[jp2476@cbsugore02 cross_validation]$ ",
+			"DBN",
+			"drymass-height",
+			"  ",
+			"dbn_models_list",
+			"/dbn",
+			"/pbn",
+			"/bn",
+			"_1",
+			"_0",
+			" ~",
+			"_0",
+			";",
+			"beta",
+			"x_d",
+			"mu",
+			";",
+			"_0",
+			"t",
+			"phi_6",
+			"phi_5",
+			"phi_4",
+			"phi_3",
+			"phi_2",
+			"phi_1",
+			"phi_0",
+			"eta_3_4",
+			"_5",
+			"4_5",
+			"_4",
+			"3_4",
+			"_3",
+			"2_3",
+			"3_4",
+			"_2",
+			"1_2",
+			"_1",
+			"0_1",
+			"eta",
+			"_5",
+			"_4",
+			"_3",
+			"_2",
+			"_1",
+			"_5",
+			"_4",
+			"_3"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"GBN",
+			"Tr2",
+			"'",
+			"MTr",
+			"Mtr",
+			"mtr",
+			"MTr",
+			"drymass-height",
+			"cv1",
+			"drymass-height",
+			"cv2",
+			"MTrLM",
+			"R",
+			"# np.random.seed(seed)",
+			"",
+			"cross_validation2",
+			"105",
+			"90",
+			"75",
+			"60",
+			"45",
+			"tmp_1",
+			"tmp_0",
+			"mu",
+			"_6",
+			"_5",
+			"_4",
+			"_3",
+			"_2",
+			"_1",
+			"mu",
+			"y_pred_cv1",
+			"mkdir",
+			"rm -rf",
+			"rm",
+			"tst",
+			"/DBN",
+			"/PBN",
+			"/BN",
+			"_0",
+			"_1",
+			"_0 ~",
+			"_1",
+			"_0;",
+			"sigma",
+			"mu",
+			"X",
+			"",
+			"'height'",
+			"phi",
+			"d",
+			"_6",
+			"5_6",
+			"_5",
+			"4_5",
+			"_4",
+			"3_4",
+			"_3",
+			"2_3",
+			"_2",
+			"1_2",
+			"eta_0_1",
+			"_6",
+			"_5",
+			"_4",
+			"_3",
+			"_2",
+			"_6",
+			"_5",
+			"_4",
+			"_3",
+			"_2",
+			"x_d_",
+			"_nobin_trn'].drop('dap',axis=1),",
+			"5_6",
+			"4_5",
+			"3_4",
+			"_6",
+			"_5",
+			"_4",
+			"_3",
+			"_2",
+			"_6",
+			"_5",
+			"_4",
+			"_3",
+			"_2",
+			"120",
+			"_6",
+			"105",
+			"_5",
+			"90",
+			"_4",
+			"75",
+			"_3",
+			"60",
+			"_2",
+			"1",
+			"45",
+			"deviations heterogeneous across years",
+			"subset",
+			"",
+			"t",
+			"",
+			"'cv1_height'",
+			"cv1_biomass_drymass",
+			"phi",
+			"pandas",
+			"numpy",
+			"starch",
+			"biomass_drymass",
+			"struc",
+			"df[biomass_type]",
+			"_0",
+			"_1",
+			"n_0",
+			"n_1",
+			"n_0",
+			"p_z",
+			"_1",
+			"_0,",
+			"_0)",
+			"_0 ~",
+			"_1",
+			"_0;",
+			"1",
+			"_0;",
+			"tst"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/jhonathan/Documents/shape-detection/shape_detection_learning.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3321,
+								3321
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/jhonathan/Documents/diversity-proj/codes/diversity2_results.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13172,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								219,
+								219
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.668800130791,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 104.0
+	},
+	"output.markdown":
+	{
+		"height": 100.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Markdown Preview/Markdown.sublime-build",
+	"project": "shape_detection.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ush",
+				"MCM/advi_two_stage_unbalanced.sh"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 152.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 462.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
