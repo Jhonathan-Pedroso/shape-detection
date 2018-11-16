@@ -323,7 +323,7 @@
 			"file": "/home/jhonathan/Documents/shape-detection/shape_detection_learning.py",
 			"settings":
 			{
-				"buffer_size": 4153,
+				"buffer_size": 4321,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -333,6 +333,14 @@
 			"settings":
 			{
 				"buffer_size": 13172,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/jhonathan/Documents/sorghum-multi-trait/codes/mtrait_first_step_analysis_plots.py",
+			"settings":
+			{
+				"buffer_size": 4277,
 				"line_ending": "Unix"
 			}
 		}
@@ -1082,24 +1090,26 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4153,
+						"buffer_size": 4321,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3321,
-								3321
+								3822,
+								3822
 							]
 						],
 						"settings":
 						{
 							"incomplete_sync": null,
-							"syntax": "Packages/Python/Python.sublime-syntax"
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 360.0,
+						"translation.y": 1173.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1118,8 +1128,8 @@
 						"selection":
 						[
 							[
-								219,
-								219
+								914,
+								914
 							]
 						],
 						"settings":
@@ -1131,10 +1141,39 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 102.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/jhonathan/Documents/sorghum-multi-trait/codes/mtrait_first_step_analysis_plots.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4277,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3703,
+								3703
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1477.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -1229,12 +1268,16 @@
 	},
 	"select_project":
 	{
-		"height": 0.0,
-		"last_filter": "",
+		"height": 500.0,
+		"last_filter": "div",
 		"selected_items":
 		[
+			[
+				"div",
+				"~/Documents/diversity-proj/sublime/diversity-proj.sublime-project"
+			]
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"select_symbol":
 	{
